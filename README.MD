@@ -2,7 +2,7 @@
 
 double clique sur `./MainWindows.py` pour lancer le programme
 
-assurez-vous d'avoir installer:
+assurez-vous d'avoir:
     - `python 3.10 (ou recent)`
     - `fpdf2`
     - `tinyDB`
