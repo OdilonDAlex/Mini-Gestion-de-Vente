@@ -1,0 +1,59 @@
+{
+    "_default": {
+        "1": {
+            "date": "2023-05-02",
+            "day": "Tuesday",
+            "Crayon": {
+                "unity": [
+                    "unity",
+                    "Boite"
+                ],
+                "quantity": [
+                    10,
+                    5
+                ],
+                "price": [
+                    7000.0,
+                    62500.0
+                ]
+            },
+            "Livre de math": {
+                "unity": [
+                    "unit\u00e9"
+                ],
+                "quantity": [
+                    2
+                ],
+                "price": [
+                    20000.0
+                ]
+            }
+        },
+        "2": {
+            "date": "2023-05-03",
+            "day": "Wednesday",
+            "Manette de Jeux": {
+                "unity": [
+                    "unit\u00e9"
+                ],
+                "quantity": [
+                    3
+                ],
+                "price": [
+                    75000.0
+                ]
+            },
+            "Laptop": {
+                "unity": [
+                    "piece"
+                ],
+                "quantity": [
+                    1
+                ],
+                "price": [
+                    1250000.0
+                ]
+            }
+        }
+    }
+}

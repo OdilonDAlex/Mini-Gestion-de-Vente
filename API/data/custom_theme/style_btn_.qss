@@ -1,0 +1,23 @@
+QPushButton{
+    background-color : #9997EF ;
+    border : 1px solid #9997EF ;
+    border-radius: 1.5px;
+    font-size : 14px ;
+    color : #171716 ;
+    font-weight : 500 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+}
+
+QPushButton:checked {
+    border : 1px solid #171716 ;
+    color: #FAFAFA ;
+    background-color : #171716  ;
+}
+
+QPushButton:hover{
+    background-color : rgb(230, 230, 230) ;
+    border : 1px solid rgb(20, 20, 0) ;
+    font-size : 14px ;
+    font-weight : 580 ;
+    color : rgb(2, 2, 2);
+}

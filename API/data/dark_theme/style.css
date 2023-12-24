@@ -1,0 +1,92 @@
+* {
+    background-color : rgb(20, 20, 20);
+    color : white ;
+    font-size : 17px ;
+    font-weight : 550 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+}
+
+QComboBox, QSpinBox{
+    background-color : rgb(23, 23, 23) ;
+    border : 1px solid rgb(40, 40, 40) ;
+    font-size : 15px ;
+    font-weight : 500 ;
+    color: white;
+    padding-left : 10px ;
+}
+
+QComboBox::drop-down {
+    border-top : 1px solid rgb(200, 200, 200);
+    border-right: 1px solid rgb(200, 200, 200);
+    border-bottom : 1px solid rgb(200, 200, 200);
+    background-color : rgb(200, 200, 200);
+}
+
+QComboBox::down-arrow {
+    image : url("API/data/downward-arrow-black.ico") ;
+    width : 13px ;
+    height : 13px ;
+}
+
+QSpinBox::down-button, QSpinBox::up-button {
+    border : none ;
+    background-color : rgb(40, 40, 40);
+}
+
+QSpinBox::down-arrow {
+    image : url("API/data/downward-arrow.ico") ;
+    width : 9px ;
+    height : 9px ;
+    border : none ;
+}
+
+QSpinBox::up-arrow {
+    image : url("API/data/upward-arrow.ico") ;
+    width : 9px ;
+    height : 9px ;
+    border : none ;
+}
+
+QComboBox QListView {
+    outline : none ;
+    background-color : rgb(30, 30, 30) ;
+    font-size : 13px ;
+    border : 1px solid rgb(60, 60, 60) ;
+}
+
+
+QComboBox QListView::item:selected{
+    background-color : rgb(60, 60, 60) ;
+}
+
+QListWidget{
+    border : 1px solid rgb(40, 40, 40);
+    background-color : rgb(30, 30, 30) ;
+    font-size : 14px  ;
+    font-weight : 400 ;
+    color : rgb(220, 220, 220) ;
+    text-align : center ;
+}
+
+QListWidget::item {
+    border-bottom : 1px solid rgb(45, 45, 45) ;
+    padding-right : 2px ;
+}
+
+QListWidget::item:selected {
+    background-color :  rgb(45, 45, 45) ;
+    border : none ;
+    color : rgb(220, 220, 220) ;
+}
+
+QPushButton:checked {
+    border : 1px solid rgba(100, 0, 0, 0.6);
+    color: black;
+    background-color : white;
+}
+
+QLabel {
+    font-size : 14px ;
+    font-weight : 300 ;
+    color : rgb(180, 180, 180) ;
+}

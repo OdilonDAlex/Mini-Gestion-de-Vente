@@ -1,0 +1,20 @@
+{
+    "_default": {
+        "1": {
+            "date": "2023-12-24",
+            "day": "Sunday",
+            "ASUS GL552JX": {
+                "type": "informatique",
+                "unity": [
+                    "unit\u00e9"
+                ],
+                "quantity": [
+                    1
+                ],
+                "price": [
+                    1400000.0
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "_default": {
+        "2": {
+            "name": "Letchi",
+            "product_unity": {
+                "kg": 2000.0
+            },
+            "type": "fruit"
+        },
+        "7": {
+            "name": "Cartable",
+            "product_unity": {
+                "piece": 25000.0
+            },
+            "type": "fourniture"
+        },
+        "8": {
+            "name": "Calculatrice",
+            "product_unity": {
+                "piece": 10000.0
+            },
+            "type": "fourniture"
+        },
+        "9": {
+            "name": "Crayon HB",
+            "product_unity": {
+                "piece": 800.0,
+                "carton": 7500.0
+            },
+            "type": "fourniture"
+        },
+        "12": {
+            "name": "Gomme",
+            "product_unity": {
+                "piece": 600.0
+            },
+            "type": "fourniture"
+        },
+        "14": {
+            "name": "R\u00e8gles",
+            "product_unity": {
+                "complet": 1500.0
+            },
+            "type": "fourniture"
+        },
+        "27": {
+            "name": "Pomme",
+            "product_unity": {
+                "piece": 300.0
+            },
+            "type": "fruit"
+        },
+        "28": {
+            "name": "Banane",
+            "product_unity": {
+                "toko": 1000.0
+            },
+            "type": "fruit"
+        },
+        "34": {
+            "name": "Clavier",
+            "product_unity": {
+                "piece": 15000.0
+            },
+            "type": "technologie"
+        },
+        "36": {
+            "name": "Tomate",
+            "product_unity": {
+                "piece": 300.0,
+                "kilao": 12000.0,
+                "toko_500_ar": 500.0
+            },
+            "type": "legume"
+        },
+        "37": {
+            "name": "mofogasy",
+            "product_unity": {
+                "piece": 200.0
+            },
+            "type": "mofo"
+        },
+        "38": {
+            "name": "menakely",
+            "product_unity": {
+                "piece": 300.0
+            },
+            "type": "mofo"
+        },
+        "40": {
+            "name": "karoty",
+            "product_unity": {
+                "kilao": 12000.0
+            },
+            "type": "legume"
+        },
+        "41": {
+            "name": "Laptop",
+            "product_unity": {
+                "piece": 1250000.0
+            },
+            "type": "technologie"
+        },
+        "42": {
+            "name": "Souris",
+            "product_unity": {
+                "piece": 15000.0
+            },
+            "type": "technologie"
+        },
+        "46": {
+            "name": " Baranjely",
+            "product_unity": {
+                "kilao": 3000.0
+            },
+            "type": "legume"
+        },
+        "47": {
+            "name": "grefy",
+            "product_unity": {
+                "iray": 200.0,
+                "folo": 2000.0
+            },
+            "type": "mofo"
+        },
+        "48": {
+            "name": "Cahier 200p",
+            "product_unity": {
+                "unit\u00e9": 2500.0
+            },
+            "type": "fourniture"
+        },
+        "52": {
+            "name": "Monitor 1080p",
+            "product_unity": {
+                "piece": 1000000.0
+            },
+            "type": "technologie"
+        },
+        "53": {
+            "name": "Crayon",
+            "product_unity": {
+                "unity": 700.0,
+                "Boite": 12500.0
+            },
+            "type": "fourniture"
+        },
+        "54": {
+            "name": "Algorithmique",
+            "product_unity": {
+                "piece": 30000.0
+            },
+            "type": "livre"
+        },
+        "59": {
+            "name": "Livre de math",
+            "product_unity": {
+                "unit\u00e9": 10000.0
+            },
+            "type": "fourniture"
+        },
+        "60": {
+            "name": "Livre de Physique",
+            "product_unity": {
+                "unit\u00e9": 10000.0
+            },
+            "type": "fourniture"
+        },
+        "61": {
+            "name": "Manette de Jeux",
+            "product_unity": {
+                "unit\u00e9": 25000.0,
+                "packet": 450000.0
+            },
+            "type": "technologie"
+        },
+        "63": {
+            "name": "Veste en Cuir",
+            "product_unity": {
+                "unit\u00e9": 100000.0,
+                "paquet": 2000000.0
+            },
+            "type": "mode"
+        },
+        "64": {
+            "name": "Tenis",
+            "product_unity": {
+                "unit\u00e9": 140000.0
+            },
+            "type": "mode"
+        },
+        "65": {
+            "name": "Iphone 13 Pro Max",
+            "product_unity": {
+                "unit\u00e9": 30000000.0
+            },
+            "type": "smartphone"
+        },
+        "66": {
+            "name": "Stylo",
+            "product_unity": {
+                "unit\u00e9": 600.0
+            },
+            "type": "fourniture"
+        },
+        "67": {
+            "name": "Marque Page",
+            "product_unity": {
+                "unit\u00e9": 3000.0
+            },
+            "type": "fourniture"
+        },
+        "68": {
+            "name": "Capteur Wifi",
+            "product_unity": {
+                "unit\u00e9": 30000.0
+            },
+            "type": "technologie"
+        },
+        "69": {
+            "name": "Box wifi",
+            "product_unity": {
+                "piece": 100000.0
+            },
+            "type": "technologie"
+        },
+        "70": {
+            "name": "Cahier de Dessin",
+            "product_unity": {
+                "unit\u00e9": 1000.0
+            },
+            "type": "fourniture"
+        }
+    }
+}

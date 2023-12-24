@@ -1,0 +1,97 @@
+* {
+    background-color : #171716 ;
+    color : #FAFAFA ;
+    font-size : 17px ;
+    font-weight : 550 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+}
+
+QComboBox, QSpinBox{
+    background-color : #3F6CDF ;
+    border : 1px solid #171716 ;
+    border-radius : 2px ;
+    font-size : 15px ;
+    font-weight : 500 ;
+    color: #FAFAFA;
+    padding-left : 10px ;
+}
+
+QComboBox::drop-down {
+    border-top : 1px solid #9997EF;
+    border-right: 1px solid #9997EF;
+    border-bottom : 1px solid #9997EF;
+    background-color : #9997EF;
+}
+
+QComboBox::down-arrow {
+    image : url("API/data/downward-arrow-black.ico") ;
+    width : 13px ;
+    height : 13px ;
+}
+
+QSpinBox::down-button, QSpinBox::up-button {
+    border : none ;
+    background-color : #171716 ;
+}
+
+QSpinBox::down-arrow {
+    image : url("API/data/downward-arrow.ico") ;
+    width : 9px ;
+    height : 9px ;
+    border : none ;
+}
+
+QSpinBox::up-arrow {
+    image : url("API/data/upward-arrow.ico") ;
+    width : 9px ;
+    height : 9px ;
+    border : none ;
+}
+
+QComboBox QListView {
+    outline : none ;
+    background-color : #FAFAFA ;
+    border-radius : 3px ;
+    font-size : 13px ;
+    border : 1px solid #171716 ;
+    color : #171716 ;
+}
+
+
+QComboBox QListView::item:selected{
+    background-color : #9997EF ;
+}
+
+QListWidget{
+    border : 1px solid #FAFAFA;
+    background-color : #FAFAFA ;
+    border-radius : 1px ;
+    font-size : 14px  ;
+    font-weight : 450 ;
+    color : #171716 ;
+    text-align : center ;
+}
+
+QListWidget::item {
+    border-bottom : 1px solid #3F6CDF ;
+    padding-right : 2px ;
+}
+
+QListWidget::item:selected {
+    background-color :  rgb(45, 45, 45) ;
+    border : none ;
+    color : #FAFAFA ;
+}
+
+QPushButton:checked {
+    border : 1px solid rgba(100, 0, 0, 0.6);
+    color: #FAFAFA;
+    border-radius : 10px ;
+    background-color : white;
+}
+
+QLabel {
+    font-size : 14px ;
+    font-weight : 300 ;
+    color : #FAFAFA ;
+}

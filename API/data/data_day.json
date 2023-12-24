@@ -1,0 +1,28 @@
+{
+  "francais" : {
+      "Today" : "Aujourd'hui",
+      "Monday" : "Lundi",
+      "Tuesday": "Mardi",
+      "Wednesday": "Mercredi",
+      "Thursday": "Jeudi",
+      "Friday": "Vendredi",
+      "Saturday" : "Samedi",
+      "Sunday": "Dimanche",
+      "Day" : "Jour",
+      "Date": "Date",
+      "Total" : "Totale"
+  },
+  "malagasy" : {
+      "Today" : "Androany",
+      "Monday" : "Alatsinainy",
+      "Tuesday": "Talata",
+      "Wednesday": "Alarobia",
+      "Thursday": "Alakamisy",
+      "Friday": "Zoma",
+      "Saturday" : "Sabotsy",
+      "Sunday": "Alahady",
+      "Day"  : "Andro",
+      "Date" : "Daty",
+      "Total" : "Totaly"
+  }
+}
